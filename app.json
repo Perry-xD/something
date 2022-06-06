@@ -10,5 +10,11 @@
     "env": {},
     "website": "#TODO",
     "logo": "#TODO",
+    "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "free"
+          }
+    },
     "stack": "container"
 }
