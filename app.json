@@ -1,0 +1,13 @@
+{
+    "name": "Something",
+    "description": "Heroku.",
+    "keywords": [
+        "VNC",
+        "Docker",
+        "noVNC"
+    ],
+    "env": {},
+    "website": "",
+    "logo": "#TODO",
+    "stack": "container"
+}
