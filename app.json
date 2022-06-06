@@ -16,5 +16,9 @@
               "size": "free"
           }
     },
-    "stack": "container"
+    "buildpacks": [
+        {
+            "url": "heroku/golang"
+        }
+    ]
 }
