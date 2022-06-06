@@ -1,1 +1,0 @@
-worker: bash sed.sh
