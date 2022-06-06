@@ -1,7 +1,7 @@
 {
     "name": "Something",
     "description": "Heroku.",
-    "repository", "https://github.com/Perry-xD/something",
+    "repository": "https://github.com/Perry-xD/something",
     "keywords": [
         "VNC",
         "Docker",
